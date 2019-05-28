@@ -1,0 +1,30 @@
+package com.xyc.commons.pojo;
+
+import java.io.Serializable;
+
+public class UserInfo implements Serializable{
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 8578212014933589235L;
+
+	private Integer userId;
+	
+	private String userName;
+
+	public Integer getUserId() {
+		return userId;
+	}
+
+	public void setUserId(Integer userId) {
+		this.userId = userId;
+	}
+
+	public String getUserName() {
+		return userName;
+	}
+
+	public void setUserName(String userName) {
+		this.userName = userName;
+	}
+}
