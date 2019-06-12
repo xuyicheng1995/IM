@@ -1,5 +1,6 @@
 package com.xyc.im.route.config;
 
+import okhttp3.OkHttpClient;
 import org.I0Itec.zkclient.ZkClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.EnvironmentAware;
@@ -16,6 +17,8 @@ import com.fasterxml.jackson.annotation.JsonAutoDetect;
 import com.fasterxml.jackson.annotation.PropertyAccessor;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
+import java.util.concurrent.TimeUnit;
+
 
 @Configuration
 public class BeanConf implements EnvironmentAware{
@@ -28,23 +31,37 @@ public class BeanConf implements EnvironmentAware{
 		System.out.println("===="+env.getProperty("zk.server.address"));
 		return new ZkClient(conf.getZkAddr());
 	}
+
+	/**
+	 * http client
+	 * @return okHttp
+	 */
+	@Bean
+	public OkHttpClient okHttpClient() {
+		OkHttpClient.Builder builder = new OkHttpClient.Builder();
+		builder.connectTimeout(30, TimeUnit.SECONDS)
+				.readTimeout(10, TimeUnit.SECONDS)
+				.writeTimeout(10,TimeUnit.SECONDS)
+				.retryOnConnectionFailure(true);
+		return builder.build();
+	}
    /**
      * RedisTemplate配置
      */
-    @Bean
-    public RedisTemplate<String, String> redisTemplate(RedisConnectionFactory factory) {
-        StringRedisTemplate template = new StringRedisTemplate(factory);
-//        Jackson2JsonRedisSerializer jackson2JsonRedisSerializer = new Jackson2JsonRedisSerializer(Object.class);
-//        ObjectMapper om = new ObjectMapper();
-//        om.setVisibility(PropertyAccessor.ALL, JsonAutoDetect.Visibility.ANY);
-//        om.enableDefaultTyping(ObjectMapper.DefaultTyping.NON_FINAL);
-//        jackson2JsonRedisSerializer.setObjectMapper(om);
-//        template.setValueSerializer(jackson2JsonRedisSerializer);
-        template.setKeySerializer(new StringRedisSerializer());
-        template.setValueSerializer(new StringRedisSerializer());
-        template.afterPropertiesSet();
-        return template;
-    }
+//    @Bean
+//    public RedisTemplate<String, String> redisTemplate(RedisConnectionFactory factory) {
+//        StringRedisTemplate template = new StringRedisTemplate(factory);
+////        Jackson2JsonRedisSerializer jackson2JsonRedisSerializer = new Jackson2JsonRedisSerializer(Object.class);
+////        ObjectMapper om = new ObjectMapper();
+////        om.setVisibility(PropertyAccessor.ALL, JsonAutoDetect.Visibility.ANY);
+////        om.enableDefaultTyping(ObjectMapper.DefaultTyping.NON_FINAL);
+////        jackson2JsonRedisSerializer.setObjectMapper(om);
+////        template.setValueSerializer(jackson2JsonRedisSerializer);
+//        template.setKeySerializer(new StringRedisSerializer());
+//        template.setValueSerializer(new StringRedisSerializer());
+//        template.afterPropertiesSet();
+//        return template;
+//    }
 	@Override
 	public void setEnvironment(Environment environment) {
 		this.env = environment;

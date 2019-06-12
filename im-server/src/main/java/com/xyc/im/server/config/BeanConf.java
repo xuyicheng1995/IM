@@ -1,5 +1,6 @@
 package com.xyc.im.server.config;
 
+import okhttp3.OkHttpClient;
 import org.I0Itec.zkclient.ZkClient;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.EnvironmentAware;
@@ -7,6 +8,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.core.env.Environment;
 
+import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
 
@@ -20,6 +22,20 @@ public class BeanConf implements EnvironmentAware{
 	public ZkClient getzkClient(){
 		System.out.println("===="+env.getProperty("zk.server.address"));
 		return new ZkClient(conf.getZkAddr());
+	}
+
+	/**
+	 * http client
+	 * @return okHttp
+	 */
+	@Bean
+	public OkHttpClient okHttpClient() {
+		OkHttpClient.Builder builder = new OkHttpClient.Builder();
+		builder.connectTimeout(30, TimeUnit.SECONDS)
+				.readTimeout(10, TimeUnit.SECONDS)
+				.writeTimeout(10,TimeUnit.SECONDS)
+				.retryOnConnectionFailure(true);
+		return builder.build();
 	}
 	
 	@Override

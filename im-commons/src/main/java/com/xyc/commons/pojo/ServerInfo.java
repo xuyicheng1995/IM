@@ -37,4 +37,14 @@ public class ServerInfo implements Serializable{
 	public void setServerPort(Integer serverPort) {
 		this.serverPort = serverPort;
 	}
+
+	@Override
+	public String toString() {
+		final StringBuffer sb = new StringBuffer("ServerInfo{");
+		sb.append("ip='").append(ip).append('\'');
+		sb.append(", nettyPort=").append(nettyPort);
+		sb.append(", serverPort=").append(serverPort);
+		sb.append('}');
+		return sb.toString();
+	}
 }

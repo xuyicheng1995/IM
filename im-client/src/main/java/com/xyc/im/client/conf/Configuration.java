@@ -4,21 +4,22 @@ import org.springframework.beans.factory.annotation.Value;
 
 @org.springframework.context.annotation.Configuration
 public class Configuration {
-	@Value("${im.server.port}")
-	private String imServerPort;
-	
+
 	@Value("${server.port}")
 	private String appPort;
 	
 	@Value("${im.userId}")
 	private Integer userId;
 
-	public String getImServerPort() {
-		return imServerPort;
+	@Value("${im.userName}")
+	private String userName;
+
+	public String getUserName() {
+		return userName;
 	}
 
-	public void setImServerPort(String imServerPort) {
-		this.imServerPort = imServerPort;
+	public void setUserName(String userName) {
+		this.userName = userName;
 	}
 
 	public String getAppPort() {

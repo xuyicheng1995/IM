@@ -36,7 +36,7 @@ public class Register2ZK implements Runnable{
 				LOG.info(beanConf.get("zk.server.switch"));
 			}
 		} catch (UnknownHostException e) {
-			e.printStackTrace();
+			LOG.error("服务端注册异常",e);
 		}
 		
 	}

@@ -4,7 +4,54 @@
     <bookmark url="file://$PROJECT_DIR$/im-client/pom.xml" line="6" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01d86ae6-174f-44a2-87fe-0e934085f3a0" name="Default" comment="" />
+    <list default="true" id="01d86ae6-174f-44a2-87fe-0e934085f3a0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/conf/BeanConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/conf/RouteConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-commons/src/main/java/com/xyc/commons/pojo/ChatInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/config/RouteConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/controller/IMServerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/handle/ChannelMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/im-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/IMClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/IMClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/conf/Configuration.java" beforeDir="false" afterPath="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/conf/Configuration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/handler/IMClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/handler/IMClientHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/init/IMClientInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/init/IMClientInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/scanner/Scan.java" beforeDir="false" afterPath="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/scanner/Scan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-client/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/im-client/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-client/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/im-client/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-client/target/classes/com/xyc/im/client/IMClientApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-client/target/classes/com/xyc/im/client/IMClientApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-client/target/classes/com/xyc/im/client/conf/Configuration.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-client/target/classes/com/xyc/im/client/conf/Configuration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-client/target/classes/com/xyc/im/client/handler/IMClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-client/target/classes/com/xyc/im/client/handler/IMClientHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-client/target/classes/com/xyc/im/client/init/IMClientInit$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-client/target/classes/com/xyc/im/client/init/IMClientInit$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-client/target/classes/com/xyc/im/client/init/IMClientInit.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-client/target/classes/com/xyc/im/client/init/IMClientInit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-client/target/classes/com/xyc/im/client/scanner/Scan.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-client/target/classes/com/xyc/im/client/scanner/Scan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-client/target/classes/com/xyc/im/client/util/SpringFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-client/target/classes/com/xyc/im/client/util/SpringFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-commons/src/main/java/com/xyc/commons/pojo/ServerInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/im-commons/src/main/java/com/xyc/commons/pojo/ServerInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-commons/target/classes/com/xyc/commons/pojo/ServerInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-commons/target/classes/com/xyc/commons/pojo/ServerInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-route/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/im-route/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-route/src/main/java/com/xyc/im/route/config/BeanConf.java" beforeDir="false" afterPath="$PROJECT_DIR$/im-route/src/main/java/com/xyc/im/route/config/BeanConf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-route/src/main/java/com/xyc/im/route/control/IMRouteController.java" beforeDir="false" afterPath="$PROJECT_DIR$/im-route/src/main/java/com/xyc/im/route/control/IMRouteController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-route/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/im-route/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-route/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/im-route/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-route/target/classes/com/xyc/im/route/IMRouteApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-route/target/classes/com/xyc/im/route/IMRouteApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-route/target/classes/com/xyc/im/route/config/BeanConf.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-route/target/classes/com/xyc/im/route/config/BeanConf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-route/target/classes/com/xyc/im/route/config/Configuration.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-route/target/classes/com/xyc/im/route/config/Configuration.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-route/target/classes/com/xyc/im/route/control/IMRouteController.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-route/target/classes/com/xyc/im/route/control/IMRouteController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-route/target/classes/com/xyc/im/route/zk/ZKUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-route/target/classes/com/xyc/im/route/zk/ZKUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/config/BeanConf.java" beforeDir="false" afterPath="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/config/BeanConf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/handle/IMServerHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/handle/IMServerHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/init/IMServerInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/init/IMServerInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/zk/Register2ZK.java" beforeDir="false" afterPath="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/zk/Register2ZK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-server/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/im-server/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-server/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/im-server/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-server/target/classes/com/xyc/im/server/handle/IMServerHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-server/target/classes/com/xyc/im/server/handle/IMServerHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-server/target/classes/com/xyc/im/server/init/IMServerInit$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-server/target/classes/com/xyc/im/server/init/IMServerInit$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-server/target/classes/com/xyc/im/server/init/IMServerInit.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-server/target/classes/com/xyc/im/server/init/IMServerInit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/im-server/target/classes/com/xyc/im/server/zk/Register2ZK.class" beforeDir="false" afterPath="$PROJECT_DIR$/im-server/target/classes/com/xyc/im/server/zk/Register2ZK.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/im-commons/target/" />
@@ -17,6 +64,11 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/im$IMServerApplication_8070_8700_.ic" NAME="IMServerApplication(8070,8700) Coverage Results" MODIFIED="1560334733679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.xyc.im.server.*</FILTER>
+    </SUITE>
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -34,11 +86,67 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/im-server/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IMServerHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/handle/IMServerHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="67" column="24" lean-forward="true" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RouteConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/config/RouteConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="12" column="25" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#390#391#0" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Scan.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/scanner/Scan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="61" column="31" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IMClientApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/IMClientApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <folding>
+                <element signature="e#411#412#0" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="IMServerApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/IMServerApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="293">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="125">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#370#371#0" expanded="true" />
@@ -48,29 +156,119 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/im-server/pom.xml">
+      <file leaf-file-name="IMClientHandler.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/handler/IMClientHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            <state relative-caret-position="177">
+              <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RouteConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/conf/RouteConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#472#473#0" expanded="true" />
+                <element signature="e#501#502#0" expanded="true" />
+                <element signature="e#545#546#0" expanded="true" />
+                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#542#543#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IMClientInit.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/init/IMClientInit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="211">
+              <caret line="222" column="23" selection-start-line="222" selection-start-column="16" selection-end-line="222" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IMServerController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/controller/IMServerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Unsafe</find>
       <find>U</find>
       <find>U.</find>
+      <find>spring.redis.pool.max-idle</find>
+      <find>RedisConnectionFactory</find>
+      <find>ConditionalOnMissingBean</find>
+      <find>command</find>
+      <find>LOGOUT</find>
+      <find>logout</find>
+      <find>服务端处理客户端下线</find>
+      <find>客户端登录成功</find>
     </findStrings>
+    <dirStrings>
+      <dir>D:\code\im\im-route</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/IMClientApplication.java" />
+        <option value="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/zk/Register2ZK.java" />
+        <option value="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/zk/ZKUtils.java" />
+        <option value="$PROJECT_DIR$/im-route/src/main/java/com/xyc/im/route/IMRouteApplication.java" />
+        <option value="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/conf/BeanConfiguration.java" />
+        <option value="$PROJECT_DIR$/im-client/pom.xml" />
+        <option value="$PROJECT_DIR$/im-route/pom.xml" />
+        <option value="$PROJECT_DIR$/im-commons/src/main/java/com/xyc/commons/pojo/ServerInfo.java" />
+        <option value="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/init/IMServerInit.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/handle/ChannelMap.java" />
+        <option value="$PROJECT_DIR$/im-route/src/main/java/com/xyc/im/route/config/BeanConf.java" />
+        <option value="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/conf/Configuration.java" />
+        <option value="$PROJECT_DIR$/im-commons/src/main/java/com/xyc/commons/pojo/ChatInfo.java" />
+        <option value="$PROJECT_DIR$/im-route/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/im-route/src/main/java/com/xyc/im/route/control/IMRouteController.java" />
+        <option value="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/config/RouteConfig.java" />
         <option value="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/config/BeanConf.java" />
+        <option value="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/handle/IMServerHandler.java" />
+        <option value="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/conf/RouteConfig.java" />
+        <option value="$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/controller/IMServerController.java" />
+        <option value="$PROJECT_DIR$/im-client/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/im-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/scanner/Scan.java" />
+        <option value="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/init/IMClientInit.java" />
+        <option value="$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/handler/IMClientHandler.java" />
       </list>
     </option>
   </component>
@@ -85,7 +283,11 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="im-server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="im-commons" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="im-route" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
       </expand>
       <select />
@@ -95,19 +297,18 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="727" />
-    <option name="y" value="115" />
-    <option name="width" value="1110" />
-    <option name="height" value="800" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1940" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -123,6 +324,76 @@
             <path>
               <item name="im" type="b2602c69:ProjectViewProjectNode" />
               <item name="im" type="462c0819:PsiDirectoryNode" />
+              <item name="im-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="im" type="b2602c69:ProjectViewProjectNode" />
+              <item name="im" type="462c0819:PsiDirectoryNode" />
+              <item name="im-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="im" type="b2602c69:ProjectViewProjectNode" />
+              <item name="im" type="462c0819:PsiDirectoryNode" />
+              <item name="im-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="im" type="b2602c69:ProjectViewProjectNode" />
+              <item name="im" type="462c0819:PsiDirectoryNode" />
+              <item name="im-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="im" type="b2602c69:ProjectViewProjectNode" />
+              <item name="im" type="462c0819:PsiDirectoryNode" />
+              <item name="im-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="im" type="b2602c69:ProjectViewProjectNode" />
+              <item name="im" type="462c0819:PsiDirectoryNode" />
+              <item name="im-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="im" type="b2602c69:ProjectViewProjectNode" />
+              <item name="im" type="462c0819:PsiDirectoryNode" />
+              <item name="im-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="init" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="im" type="b2602c69:ProjectViewProjectNode" />
+              <item name="im" type="462c0819:PsiDirectoryNode" />
+              <item name="im-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+              <item name="scanner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="im" type="b2602c69:ProjectViewProjectNode" />
+              <item name="im" type="462c0819:PsiDirectoryNode" />
               <item name="im-server" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -163,129 +434,50 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="im" type="b2602c69:ProjectViewProjectNode" />
-              <item name="im" type="462c0819:PsiDirectoryNode" />
-              <item name="im-server" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="im" type="b2602c69:ProjectViewProjectNode" />
-              <item name="im" type="462c0819:PsiDirectoryNode" />
-              <item name="im-server" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="im" type="b2602c69:ProjectViewProjectNode" />
-              <item name="im" type="462c0819:PsiDirectoryNode" />
-              <item name="im-server" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="im" type="b2602c69:ProjectViewProjectNode" />
-              <item name="im" type="462c0819:PsiDirectoryNode" />
-              <item name="im-server" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xyc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="im" type="b2602c69:ProjectViewProjectNode" />
-              <item name="im" type="462c0819:PsiDirectoryNode" />
-              <item name="im-server" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xyc" type="462c0819:PsiDirectoryNode" />
-              <item name="im" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="im" type="b2602c69:ProjectViewProjectNode" />
-              <item name="im" type="462c0819:PsiDirectoryNode" />
-              <item name="im-server" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xyc" type="462c0819:PsiDirectoryNode" />
-              <item name="im" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="im" type="b2602c69:ProjectViewProjectNode" />
-              <item name="im" type="462c0819:PsiDirectoryNode" />
-              <item name="im-server" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="xyc" type="462c0819:PsiDirectoryNode" />
-              <item name="im" type="462c0819:PsiDirectoryNode" />
-              <item name="server" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="handle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="im" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="im" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="im" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="im" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="im" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="im" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="D:/云夕/云析课堂/2-面试专题/云析VIP面试辅导/（三）无双老师-面试指导分析/yunxi-interview" />
+    <property name="last_opened_file_path" value="D:/云夕/高并发分布式专题/Netty/03.22-第七节-分布式聊天室（三）/im" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xyc.im.server.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\im\im-client\src\main\java\com\xyc\im\client\conf" />
+    </key>
   </component>
   <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
     <option name="ruleStates">
       <list>
         <RuleState>
@@ -296,8 +488,9 @@
         </RuleState>
       </list>
     </option>
+    <option name="contentProportion" value="0.33105803" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.IMClientApplication(8062,10002)">
     <configuration name="BeanConf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.xyc.im.server.config.BeanConf" />
       <module name="imserver" />
@@ -328,6 +521,62 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="IMClientApplication(8060,10000)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="imclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xyc.im.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xyc.im.client.IMClientApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="IMClientApplication(8061,10001)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="imclient" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xyc.im.client.IMClientApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8061 --im.userId=10001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="IMClientApplication(8062,10002)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="imclient" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xyc.im.client.IMClientApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8062 --im.userId=10002" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="IMRouteApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="im-route" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xyc.im.route.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xyc.im.route.IMRouteApplication" />
+    </configuration>
+    <configuration name="IMServerApplication(8070,8700)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="imserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xyc.im.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xyc.im.server.IMServerApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="IMServerApplication(8071,8701)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="imserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xyc.im.server.IMServerApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8071 --im.server.port=8701" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
+    <configuration name="IMServerApplication(8072,8702)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="imserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.xyc.im.server.IMServerApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=8072 --im.server.port=8702" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -350,8 +599,21 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.IMServerApplication(8071,8701)" />
+      <item itemvalue="Spring Boot.IMServerApplication(8072,8702)" />
+      <item itemvalue="Spring Boot.IMClientApplication(8062,10002)" />
+      <item itemvalue="Spring Boot.IMClientApplication(8061,10001)" />
+      <item itemvalue="Application.BeanConf" />
+      <item itemvalue="Spring Boot.IMServerApplication(8070,8700)" />
+      <item itemvalue="Spring Boot.IMClientApplication(8060,10000)" />
+      <item itemvalue="Spring Boot.IMRouteApplication" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.IMClientApplication(8060,10000)" />
+        <item itemvalue="Spring Boot.IMRouteApplication" />
+        <item itemvalue="Spring Boot.IMServerApplication(8070,8700)" />
         <item itemvalue="Application.BeanConf" />
       </list>
     </recent_temporary>
@@ -373,11 +635,15 @@
       <workItem from="1555846403554" duration="24000" />
       <workItem from="1557315697400" duration="2111000" />
       <workItem from="1557365733625" duration="4972000" />
+      <workItem from="1560322011603" duration="9739000" />
+      <workItem from="1560331779298" duration="211000" />
+      <workItem from="1560332006463" duration="2978000" />
+      <workItem from="1560335466790" duration="14065000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9899000" />
+    <option name="totallyTimeSpent" value="36892000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
@@ -385,35 +651,37 @@
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="4" weight="0.3294271" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32908848" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Database" order="3" weight="0.3297587" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info id="UI Designer" order="1" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.39972338" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32918397" />
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3294423" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" visible="true" weight="0.406639" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.32918397" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.4813278" />
       <window_info anchor="bottom" id="Spring" order="11" />
-      <window_info anchor="bottom" id="Terminal" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.203125" />
-      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32918397" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.31032172" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="5" />
     </layout>
   </component>
@@ -425,427 +693,377 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/zk/Register2ZK.java">
+    <entry file="file://$PROJECT_DIR$/im-route/target/classes/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        <state relative-caret-position="76">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/IMServerApplication.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.2.RELEASE/spring-boot-2.1.2.RELEASE.jar!/org/springframework/boot/task/TaskExecutorBuilder.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="152">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot/2.1.2.RELEASE/spring-boot-2.1.2.RELEASE-sources.jar!/org/springframework/boot/task/TaskExecutorBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="44" column="32" selection-start-line="44" selection-start-column="13" selection-end-line="44" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.2.RELEASE/spring-boot-autoconfigure-2.1.2.RELEASE.jar!/org/springframework/boot/autoconfigure/SpringBootApplication.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-route/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-route/src/main/java/com/xyc/im/route/zk/ZKUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/config/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#467#468#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/zk/ZKUtils.java">
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-266">
+          <caret line="393" column="13" selection-start-line="393" selection-start-column="13" selection-end-line="393" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.5.Final/netty-all-4.1.5.Final-sources.jar!/io/netty/channel/ChannelHandlerContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="129" column="6" selection-start-line="129" selection-start-column="6" selection-end-line="129" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/nio/channels/Channel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-route/src/main/java/com/xyc/im/route/config/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-commons/src/main/java/com/xyc/commons/constants/BasicConstant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="49" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-route/src/main/java/com/xyc/im/route/config/BeanConf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="36" column="21" lean-forward="true" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/handle/ChannelMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/conf/Configuration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="e#298#312#1" expanded="true" />
+            <element signature="e#348#364#1" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#849#850#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-commons/src/main/java/com/xyc/commons/pojo/ServerInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-commons/src/main/java/com/xyc/commons/pojo/UserInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-route/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="383" column="10" selection-start-line="383" selection-start-column="10" selection-end-line="383" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-commons/src/main/java/com/xyc/commons/pojo/ChatInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+          <folding>
+            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.5.Final/netty-all-4.1.5.Final-sources.jar!/io/netty/channel/ChannelInboundHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="28" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.5.Final/netty-all-4.1.5.Final-sources.jar!/io/netty/channel/ChannelInboundHandlerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="27" />
+          <caret line="31" column="91" lean-forward="true" selection-start-line="31" selection-start-column="91" selection-end-line="31" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-route/src/main/java/com/xyc/im/route/IMRouteApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/zk/Register2ZK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="31" column="122" selection-start-line="31" selection-start-column="122" selection-end-line="31" selection-end-column="122" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/conf/BeanConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="17" selection-start-line="17" selection-end-line="29" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/config/BeanConf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="14" />
+        <state relative-caret-position="297">
+          <caret line="31" column="23" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/config/Configuration.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.5.Final/netty-all-4.1.5.Final-sources.jar!/io/netty/channel/Channel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/util/SpringFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/zk/Register2ZK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/IMServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="1235">
+          <caret line="79" column="17" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/zk/Register2ZK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/zk/ZKUtils.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.5.Final/netty-all-4.1.5.Final-sources.jar!/io/netty/channel/ServerChannel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="27" />
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/util/SpringFactory.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.5.Final/netty-all-4.1.5.Final-sources.jar!/io/netty/channel/socket/ServerSocketChannel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="152">
+          <caret line="24" column="53" lean-forward="true" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/im-client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.0.2.RELEASE/spring-boot-starter-parent-2.0.2.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/im-client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://MAVEN/com.xyc:im:1.0-SNAPSHOT">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>MAVEN</ID>
-          <OriginalElement>com.xyc:im:1.0-SNAPSHOT</OriginalElement>
-          <nodes>
-            <node x="" y="">com.xyc:im:1.0-SNAPSHOT</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="23.0" y="16.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>All</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/2.0.2.RELEASE/spring-boot-starter-parent-2.0.2.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2166" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/IMClientApplication.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.5.Final/netty-all-4.1.5.Final-sources.jar!/io/netty/channel/socket/nio/NioServerSocketChannel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <caret line="42" column="73" lean-forward="true" selection-start-line="42" selection-start-column="73" selection-end-line="42" selection-end-column="73" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.5.Final/netty-all-4.1.5.Final-sources.jar!/io/netty/channel/EventLoop.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        <state relative-caret-position="228">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/im-client/pom.xml">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ScheduledExecutorService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="93" column="17" selection-start-line="93" selection-start-column="17" selection-end-line="93" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.5.Final/netty-all-4.1.5.Final-sources.jar!/io/netty/util/concurrent/EventExecutorGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="30" column="48" lean-forward="true" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.5.Final/netty-all-4.1.5.Final-sources.jar!/io/netty/channel/EventLoopGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="24" column="51" selection-start-line="24" selection-start-column="51" selection-end-line="24" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-commons/src/main/java/com/xyc/commons/utils/StringUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
-          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/config/Configuration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/zk/ZKUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/zk/Register2ZK.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/util/SpringFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="17" column="28" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding>
-            <element signature="e#534#535#0" expanded="true" />
-            <element signature="e#572#573#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#644#645#0" expanded="true" />
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#323#324#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/init/IMServerInit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.5.Final/netty-all-4.1.5.Final-sources.jar!/io/netty/util/concurrent/Future.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1501">
-          <caret line="94" column="7" lean-forward="true" selection-start-line="94" selection-start-column="7" selection-end-line="94" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty-all/4.1.5.Final/netty-all-4.1.5.Final-sources.jar!/io/netty/util/concurrent/AbstractFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/rt.jar!/java/util/concurrent/Future.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/CompletableFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2071">
-          <caret line="109" column="47" selection-start-line="109" selection-start-column="47" selection-end-line="109" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/ForkJoinTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="1357" column="23" selection-start-line="1357" selection-start-column="23" selection-end-line="1357" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/Future.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1102">
-          <caret line="91" column="13" selection-start-line="91" selection-start-column="13" selection-end-line="91" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/FutureTask.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="62" column="42" selection-start-line="62" selection-start-column="42" selection-end-line="62" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/RunnableFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/rt.jar!/java/util/concurrent/atomic/AtomicInteger.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+        <state relative-caret-position="-226">
+          <caret line="37" column="42" lean-forward="true" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
           <folding>
-            <element signature="e#0#3627#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-            <element signature="e#697#698#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
-            <element signature="e#769#770#0" expanded="true" />
-            <element signature="e#802#803#0" expanded="true" />
-            <element signature="e#845#846#0" expanded="true" />
-            <element signature="e#906#907#0" expanded="true" />
-            <element signature="e#950#951#0" expanded="true" />
-            <element signature="e#1017#1018#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#1664#2233#0" expanded="true" />
+            <element signature="e#2232#2233#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="361" column="30" lean-forward="true" selection-start-line="361" selection-start-column="30" selection-end-line="361" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/ListIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="59" column="17" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/rt.jar!/java/util/List.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="38" column="18" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#1795#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/rt.jar!/java/util/ArrayList.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="1025" selection-start-line="1025" selection-end-line="1025" />
-          <folding>
-            <element signature="e#0#32403#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/rt.jar!/java/lang/String.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="1115" lean-forward="true" selection-start-line="1115" selection-end-line="1115" />
-          <folding>
-            <element signature="e#0#36011#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/src.zip!/java/util/concurrent/atomic/AtomicInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="159" lean-forward="true" selection-start-line="159" selection-end-line="159" />
-          <folding>
-            <element signature="e#4021#4022#0" expanded="true" />
-            <element signature="e#4085#4086#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/im-commons/src/main/java/com/xyc/commons/utils/StringUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="52" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="52" />
-          <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#323#324#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#545#546#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/config/BeanConf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="41" column="37" lean-forward="true" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="37" />
-          <folding>
-            <element signature="e#728#729#0" expanded="true" />
-            <element signature="e#757#758#0" expanded="true" />
-            <element signature="e#789#790#0" expanded="true" />
-            <element signature="e#823#824#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/target/classes/com/xyc/im/server/config/BeanConf.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-          <folding>
-            <element signature="e#0#1586#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.7.0.Final/netty-3.7.0.Final.jar!/org/jboss/netty/util/internal/ConcurrentHashMap.class">
+    <entry file="file://$PROJECT_DIR$/im-commons/src/main/java/com/xyc/commons/constants/MessageConstant.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#0#30196#0" expanded="true" />
-          </folding>
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_91/jre/lib/rt.jar!/java/util/concurrent/ConcurrentHashMap.class">
+    <entry file="file://$PROJECT_DIR$/im-route/src/main/java/com/xyc/im/route/control/IMRouteController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="126" column="5" lean-forward="true" selection-start-line="126" selection-start-column="5" selection-end-line="126" selection-end-column="5" />
+        <state relative-caret-position="1767">
+          <caret line="122" column="36" selection-start-line="122" selection-start-column="30" selection-end-line="122" selection-end-column="36" />
           <folding>
-            <element signature="e#0#225066#0" expanded="true" />
             <element signature="imports" expanded="true" />
-            <element signature="e#5983#5984#0" expanded="true" />
-            <element signature="e#6018#6019#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/target/classes/com/xyc/im/server/config/Configuration.class">
+    <entry file="file://$PROJECT_DIR$/im-client/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="9" selection-start-column="53" selection-end-line="10" selection-end-column="28" />
+        <state relative-caret-position="114">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/conf/RouteConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
           <folding>
-            <element signature="e#0#1211#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
+            <element signature="e#501#502#0" expanded="true" />
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#542#543#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/IMClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#472#473#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/IMServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="125">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#370#371#0" expanded="true" />
@@ -854,10 +1072,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/im-server/pom.xml">
+    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/controller/IMServerController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        <state relative-caret-position="205">
+          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/config/RouteConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#390#391#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#470#471#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-server/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-server/src/main/java/com/xyc/im/server/handle/IMServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="67" column="24" lean-forward="true" selection-start-line="67" selection-start-column="7" selection-end-line="67" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/scanner/Scan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="61" column="31" selection-start-line="61" selection-start-column="31" selection-end-line="61" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/init/IMClientInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="222" column="23" selection-start-line="222" selection-start-column="16" selection-end-line="222" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/im-client/src/main/java/com/xyc/im/client/handler/IMClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="71" column="8" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -878,7 +1151,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -913,12 +1186,11 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>im</last-edited>
+          <last-edited>im-route</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

@@ -20,5 +20,4 @@ public class IMClientApplication implements CommandLineRunner{
 		thread.setName("im-client");
 		thread.start();
 	}
-
 }
