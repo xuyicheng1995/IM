@@ -6,6 +6,8 @@ import java.util.concurrent.atomic.AtomicLong;
 
 import com.alibaba.fastjson.JSONObject;
 import com.xyc.commons.pojo.ChatInfo;
+import com.xyc.im.route.cache.ServerInfoCache;
+import com.xyc.im.route.config.Configuration;
 import okhttp3.MediaType;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
@@ -16,10 +18,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.util.CollectionUtils;
 import org.springframework.util.StringUtils;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import com.xyc.commons.constants.BasicConstant;
 import com.xyc.commons.pojo.ServerInfo;
@@ -36,7 +35,10 @@ public class IMRouteController {
 	private RedisTemplate<String, String>  template;
 	@Autowired
 	private OkHttpClient httpClient;
+	@Autowired
+	private Configuration conf;
 	private AtomicLong index = new AtomicLong();
+	private ServerInfoCache cache = ServerInfoCache.newInstance();
 	
 	/**
 	 * 客户端用户发现服务端的接口
@@ -48,7 +50,12 @@ public class IMRouteController {
 	@RequestMapping(value = "/getRoute",method = RequestMethod.POST)
 	public ServerInfo getRoute(@RequestBody UserInfo user){
 		String serverStr = "";
-		List<String> list = zk.getALlNodes("/route");
+		List<String> list;
+		if(cache.isNotEmpty()){
+			list = cache.getCache();
+		}else{
+			list = zk.getALlNodes("/route");
+		}
 		if(CollectionUtils.isEmpty(list)){
 			LOGGER.info("获取到的节点数据为空！");
 			return null;
@@ -124,5 +131,14 @@ public class IMRouteController {
 	public void logout(@RequestBody UserInfo user){
 
 		template.opsForValue().getOperations().delete(BasicConstant.ROUTE_PREFIX +user.getUserId() );
+	}
+
+	/**
+	 * 测试nginx类
+	 */
+	@RequestMapping(value = "/test",method = RequestMethod.GET)
+	@ResponseBody
+	public String test(){
+		return "this is 【"+conf.getAppPort()+"】节点";
 	}
 }

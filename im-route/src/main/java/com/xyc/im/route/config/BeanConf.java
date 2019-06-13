@@ -1,7 +1,9 @@
 package com.xyc.im.route.config;
 
+import com.xyc.im.route.discovery.ServiceDiscovery;
 import okhttp3.OkHttpClient;
 import org.I0Itec.zkclient.ZkClient;
+import org.springframework.beans.factory.InitializingBean;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.EnvironmentAware;
 import org.springframework.context.annotation.Bean;
@@ -21,7 +23,7 @@ import java.util.concurrent.TimeUnit;
 
 
 @Configuration
-public class BeanConf implements EnvironmentAware{
+public class BeanConf implements EnvironmentAware {
 	@Autowired
 	private com.xyc.im.route.config.Configuration conf;
 	

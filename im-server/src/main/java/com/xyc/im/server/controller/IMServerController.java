@@ -52,7 +52,6 @@ public class IMServerController {
         }
 
     }
-
     /**
      * 服务端处理客户端下线事件
      * @param userInfo
